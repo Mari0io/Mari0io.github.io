@@ -1,0 +1,130 @@
+.background{
+    background-color: rgb(200, 240, 180);
+    color: black;
+}
+
+
+header{
+    background-color: rgb(165, 226, 168);
+    padding: 15px;
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100px;
+}
+
+
+body{
+    font-family: cursive ;
+    margin: 0;
+    
+}
+
+
+nav {
+    background-color:rgb(26, 94, 26); ;
+    padding: 7px;
+    
+}
+
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+
+nav ul li {
+    list-style-type: none;
+    background-color: rgb(192, 72, 68);
+    display: inline;
+    padding: 10px;
+    margin:10px;
+    border: 4px solid rgb(200, 240, 180) ;
+    border-radius: 30px;
+   
+}
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+nav ul li:hover{
+    background-color:rgb(192, 148, 148) ;
+    border: 4px solid rgba(211, 211, 211, 0.795);
+}
+
+.textlogo{
+    position: relative;
+    left: 20px;
+    
+}
+
+
+.logoborder{
+    border: 2px solid rgb(5, 83, 102);
+    border-radius: 25px;
+    
+}
+
+
+footer{
+    clear: both;
+    border: 1px solid rgb(221, 223, 143);
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(26, 94, 26);
+    text-align: center;
+    color: white;
+}
+
+footer ul li{
+    text-decoration: none;
+    display: inline;
+    padding: 15px;
+    margin:10px;
+    
+}
+
+footer ul li a {
+color: white;
+text-decoration: none;
+}
+
+footer :hover{
+    color: greenyellow;
+    }
+    
+
+  
+   
+   
+  
+  .card {
+    margin: 25px;
+    border: 5px solid black;
+    display: block;
+    margin-right: 25px;
+   
+  }
+
+  .card img {
+  
+    margin-right: 20px;
+    height: 300px;
+    width: 450px;
+  }
+ 
+
+  .aboutus{
+   
+    text-align: center;
+}
+
