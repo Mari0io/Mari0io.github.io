@@ -147,7 +147,7 @@ color: greenyellow;
 
 .contact h2 {
     text-align: center; /* Centers the heading */
-    color: rgb(200, 240, 180) ; /* color */
+    color: rgb(200, 240, 180) ;
     margin-bottom: 20px; /* Adds space below the heading */
 }
 
@@ -172,8 +172,8 @@ color: greenyellow;
 
 .contact button {
     padding: 10px 20px; /* Adds padding to the button */
-    background-color: rgb(26, 94, 26); /* Blue background color */
-    color: rgb(200, 240, 180); /* White text */
+    background-color: rgb(26, 94, 26);
+    color: rgb(200, 240, 180); 
     border: none; /* Removes default border */
     border-radius: 10px; /* Rounded corners for the button */
     cursor: pointer; /* Changes cursor to pointer on hover */
@@ -181,8 +181,7 @@ color: greenyellow;
 }
 
 .contact button:hover {
-    background-color: rgb(63, 138, 28); /* Darker blue on hover */
-    
+    background-color: rgb(63, 138, 28); 
 }
 
 aside {
