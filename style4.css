@@ -109,7 +109,7 @@ color: greenyellow;
 
 .col_detail{
     column-count: 3;
-    column-rule: 1px solid white;
+    column-rule: 1px solid black;
     column-gap: 50px;
     padding: 2px;
 }
